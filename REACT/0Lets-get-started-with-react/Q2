@@ -1,0 +1,5 @@
+1. var divideby100 = number =>  number/ 100
+
+2. this keyword in arrow function refer to parent's object while this keyword in normal function refer to the object which have called it.
+
+3.

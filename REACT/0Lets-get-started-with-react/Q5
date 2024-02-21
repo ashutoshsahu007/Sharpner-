@@ -1,0 +1,27 @@
+1> Components are independent and reusable bits of code. They serve the same purpose as JavaScript functions, but work in isolation and return HTML. Components come in two types, Class components and Function components.
+
+
+
+
+
+2> A Component is one of the core building blocks of React. In other words, we can say that every application you will develop in React will be made up of pieces called components. Components make the task of building UIs much easier,thats why React is all about Components.
+
+
+
+
+
+3> open the terminal 
+
+npm create vite@latest
+
+then give a project name 
+
+then select a framework
+
+then select a varient
+
+then cd project name
+
+npm install 
+
+npm run dev
